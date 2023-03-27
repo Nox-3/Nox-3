@@ -1,5 +1,5 @@
 
-<h1 align="center">Hello World>
+<h2 align="center">Hello World</h2>
 
 ### Meu nome e Lucas sou estudante de Ciências da computação e além disso estou estudando sobre a área de desenvolvimento Front-end, Back-end e Mobile. 💻☕
 <hr>
