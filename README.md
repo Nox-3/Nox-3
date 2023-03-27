@@ -1,10 +1,13 @@
-### Olá, meu nome e Pedro sou estudante de Ciências da computação e atualmente estou estudando sobre a área de desenvolvimento Front-end, Back-end e Mobile 💻☕
+
+<!--<h1 align="center">Hello World <img src=".github/workflows/ghost.gif" alt="ghost gif" width="9%"></h1>-->
+
+### Meu nome e Pedro sou estudante de Ciências da computação e atualmente estou estudando sobre a área de desenvolvimento Front-end, Back-end e Mobile 💻☕
 <hr>
 
 
 ### Tecnologias que eu uso nos meus projetos
 <hr>
-<div style="display:inline-block"><br/>
+<div style="display:inline-block" align="center"><br/>
   <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img align="center" alt="BootsTrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
@@ -20,8 +23,11 @@
 <hr>  
 </div>
 
-![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=Nox-3&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nox-3&layout=compact&theme=dark)](https://github.com/Nox-3/github-readme-stats)
+<div align="center">
+    <a href="https://github.com/Nox-3">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Nox-3&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+ <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nox-3&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
 ### Minhas Redes
 
