@@ -31,6 +31,6 @@
 
 ### Minhas Redes
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](htttp://linkedin.com/in/pedro-lf)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](htttps://www.linkedin.com/in/pedro-lf)
 
   
