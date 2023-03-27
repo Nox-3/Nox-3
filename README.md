@@ -1,5 +1,5 @@
 
-<h1 align="center">Hello World <img src=".github/workflows/ghost.gif" alt="ghost gif" width="9%">
+<h1 align="center">Hello World>
 
 ### Meu nome e Lucas sou estudante de Ciências da computação e além disso estou estudando sobre a área de desenvolvimento Front-end, Back-end e Mobile. 💻☕
 <hr>
