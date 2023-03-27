@@ -28,9 +28,3 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Nox-3&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nox-3&layout=compact&langs_count=7&theme=dark"/>
 </div>
-
-### Minhas Redes
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](htttps://www.linkedin.com/in/pedro-lf)
-
-  
