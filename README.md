@@ -1,7 +1,7 @@
 
 <h2 align="center">Hello World</h2>
 
-### Meu nome e Lucas sou estudante de Ciências da computação e sou desenvolvedor Full-stack. 💻☕
+### Meu nome e Lucas sou estudante de Ciências da computação e sou desenvolvedor Full-Stack.💻☕
 <hr>
 
 
