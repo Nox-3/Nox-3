@@ -1,7 +1,7 @@
 
 <h2 align="center">Hello World</h2>
 
-### Meu nome e Lucas sou formado em Ciências da computação e sou Analista de Sistemas.💻☕
+### Meu nome e Lucas sou formado em Ciências da computação.💻☕
 <hr>
 
 
