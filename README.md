@@ -1,25 +1,25 @@
 <h2 align="center">Hello, World 👋</h2>
 
 <p align="center">
-Meu nome e <strong>Lucas</strong>, formado em <strong>Ciência da Computação</strong>, estudante de <strong>Engenharia Elétrica</strong> e pós-graduando em <strong>Ciência de Dados & Machine Learning</strong>.  
-Atuo com <strong>automação, análise de dados, integração de sistemas</strong> e desenvolvimento de soluções orientadas a dados.
+My name is <strong>Lucas</strong>. I hold a degree in <strong>Computer Science</strong>, I am currently pursuing a degree in <strong>Electrical Engineering</strong>, and I am a postgraduate student in <strong>Data Science & Machine Learning</strong>.  
+I work with <strong>automation, data analysis, system integration</strong>, and the development of data-driven solutions.
 </p>
 
 <hr>
 
-<h3 align="center">🧠 Áreas de Atuação</h3>
+<h3 align="center">🧠 Areas of Expertise</h3>
 
 <ul>
-  <li>Engenharia e Análise de Dados (ETL, EDA, pipelines)</li>
-  <li>Machine Learning (modelos supervisionados e não supervisionados)</li>
-  <li>Automação de processos e integração de sistemas</li>
-  <li>Sistemas embarcados e conectividade (IoT)</li>
-  <li>Dashboards e apoio à tomada de decisão (BI)</li>
+  <li>Data Engineering and Data Analysis (ETL, EDA, data pipelines)</li>
+  <li>Machine Learning (supervised and unsupervised models)</li>
+  <li>Process automation and systems integration</li>
+  <li>Embedded systems and connectivity (IoT)</li>
+  <li>Dashboards and decision support (Business Intelligence)</li>
 </ul>
 
 <hr>
 
-<h3 align="center">🚀 Tecnologias & Ferramentas</h3>
+<h3 align="center">🚀 Technologies & Tools</h3>
 
 <div style="display:inline-block" align="center"><br/>
   <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
@@ -53,6 +53,6 @@ Atuo com <strong>automação, análise de dados, integração de sistemas</stron
 <hr>
 
 <p align="center">
-💡 <em>Interesse em projetos relacionados a dados, automação, machine learning e sistemas inteligentes.</em><br>
-📫 Conecte-se comigo no LinkedIn ou explore meus repositórios.
+💡 <em>Interested in projects related to data, automation, machine learning, and intelligent systems.</em><br>
+📫 Connect with me on LinkedIn or explore my repositories.
 </p>
